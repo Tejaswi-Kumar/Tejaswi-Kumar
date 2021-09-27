@@ -20,11 +20,12 @@
 
 **Languages and Tools:** 
 
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
+![](https://komarev.com/ghpvc/?username=Tejaswi-Kumar&color=brightgreen)
+
 <p>
-  ![Tejaswi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tejaswi-Kumar&show_icons=true&theme=radical)
+  <a href="https://github-readme-stats.vercel.app/api?username=Tejaswi-Kumar&show_icons=true&hide_border=true" target="_blank">
+    <img width="55%" align="right" alt="Tejaswi's github stats" src="https://github-readme-stats.vercel.app/api?username=Tejaswi-Kumar&show_icons=true&hide_border=true" />
+  </a>
 
 
   <!-- Your languages and tools. Be careful with the alignment. 
