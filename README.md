@@ -14,7 +14,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - ⚡️ I'm currently pursuing my B. tech in Computer Science and Engineering at Vellore Institute of Technology;
-- 👨🏽‍💻 I’m currently a Microsoft Learn Student Ambassador;
+- 👨🏽‍💻 I’m a Microsoft Learn Student Ambassador;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: TEJASWI.KUMAR@studentambassadors.com;
 - 👀 You can visit my portfolio: <a href="https://tejaswikumar.netlify.app/" target="_blank">https://tejaswikumar.netlify.app/</a>
