@@ -10,8 +10,8 @@
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
-<!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<!-- Any image aligned to the right. Beware the width  https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg -->
+<img width="55%" align="right" alt="Github" src="https://media-exp1.licdn.com/dms/image/C4E1BAQF059wJn248xg/company-background_10000/0/1621604613028?e=2159024400&v=beta&t=p7SUFX8faTSEHpVSRUHSqf_Wg0lR0B0c2zT28xozuvo" />
 
 - ⚡️ I'm currently pursuing my B. tech in Computer Science and Engineering at Vellore Institute of Technology;
 - 👨🏽‍💻 I’m a Microsoft Learn Student Ambassador;
